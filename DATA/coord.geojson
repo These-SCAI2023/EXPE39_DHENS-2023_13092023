@@ -1,0 +1,20 @@
+{"ID1" :{
+  "type": "Feature1",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [125.6, 10.1]
+  },
+  "properties": {
+    "name": "Dinagat Islands"
+  }},
+  "ID2":{}
+   "type": "Feature2",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [48.85182279290685, 2.3590489363835627]
+  },
+  "properties": {
+    "name": "Paris"
+  }
+}
+}
